@@ -1,5 +1,5 @@
 package demo;
 
-public class Shap {
-
+public interface Shap {
+	 void draw();
 }
