@@ -1,6 +1,7 @@
 package demo;
 
 import api.Shape;
+import factor.ShapeFactory;
 
 public class FactoryPatternDemo {
 	public static void main(String[] args) {

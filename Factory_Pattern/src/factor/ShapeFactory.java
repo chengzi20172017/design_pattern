@@ -1,4 +1,4 @@
-package demo;
+package factor;
 
 import api.Shape;
 import impl.Circle;
